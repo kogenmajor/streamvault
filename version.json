@@ -1,7 +1,7 @@
 {
-  "versionCode": 11,
+  "versionCode": 12,
   "versionName": "1.5",
   "apkUrl": "https://github.com/kogenmajor/streamvault/releases/download/app/app-release.apk",
-  "changelog": "",
+  "changelog": "Minifyed",
   "forceUpdate": false
 }
