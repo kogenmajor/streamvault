@@ -1,6 +1,6 @@
 {
-  "versionCode": 14,
-  "versionName": "1.7",
+  "versionCode": 15,
+  "versionName": "1.8",
   "apkUrl": "https://github.com/kogenmajor/streamvault/releases/download/app/app-release.apk",
   "changelog": "Updated Streaming srcs",
   "forceUpdate": false
