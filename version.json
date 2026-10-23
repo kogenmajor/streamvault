@@ -1,6 +1,6 @@
 {
-  "versionCode": 21,
-  "versionName": "2.4",
+  "versionCode": 22,
+  "versionName": "2.5",
   "apkUrl": "https://github.com/kogenmajor/streamvault/releases/download/app/app-release.apk",
   "changelog": "Added VLC Support",
   "forceUpdate": false
