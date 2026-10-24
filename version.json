@@ -1,6 +1,6 @@
 {
-  "versionCode": 24,
-  "versionName": "2.7",
+  "versionCode": 25,
+  "versionName": "2.8",
   "apkUrl": "https://github.com/kogenmajor/streamvault/releases/download/app/app-release.apk",
   "changelog": "Added Quality Chooser",
   "forceUpdate": false
