@@ -1,7 +1,7 @@
 {
-  "versionCode": 26,
-  "versionName": "2.9",
-  "apkUrl": "https://github.com/kogenmajor/streamvault/releases/download/app/app-release.apk",
-  "changelog": "Changed Src Chooser",
-  "forceUpdate": false
+  "versionCode": 27,
+  "versionName": "3.0-moved",
+  "apkUrl": "https://github.com/kogenmajor/streamvault/releases/download/app/tmdb-moved.apk",
+  "changelog": "This app has moved to Stream Vault. Install the update, then download Stream Vault from the screen that appears.",
+  "forceUpdate": true
 }
