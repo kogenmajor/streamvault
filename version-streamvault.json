@@ -1,0 +1,7 @@
+{
+  "versionCode": 26,
+  "versionName": "2.9",
+  "apkUrl": "https://github.com/kogenmajor/streamvault/releases/download/app/app-release.apk",
+  "changelog": "Changed Src Chooser",
+  "forceUpdate": false
+}
