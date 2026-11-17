@@ -1,6 +1,6 @@
 {
-  "versionCode": 27,
-  "versionName": "3.0.",
+  "versionCode": 28,
+  "versionName": "3.1.",
   "apkUrl": "https://github.com/kogenmajor/streamvault/releases/download/app/app-release.apk",
   "changelog": "Updated Token Parsing",
   "forceUpdate": false
